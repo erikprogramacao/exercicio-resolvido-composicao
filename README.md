@@ -100,4 +100,4 @@ Total price: 1080.0
 
 Se quiser acompanhar a minha evolução ou trocar ideias sobre programação Java, sinta-se à vontade para entrar em contacto!
 
-* **GitHub:** [@erikprogramacao](https://github.com)
+* **GitHub:** [Erik](https://github.com/erikprogramacao)
